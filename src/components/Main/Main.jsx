@@ -2,7 +2,7 @@ import React from "react"
 import { CiLocationOn } from "react-icons/ci"
 import { HiOutlineClipboardCheck } from "react-icons/hi"
 
-import "./main.scss"
+import "./main.css"
 import img from "../../assets/bora.jpg"
 
 const Data = [

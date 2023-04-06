@@ -8,7 +8,7 @@ import { TbApps } from "react-icons/tb"
 import { FaTripadvisor } from "react-icons/fa"
 import Aos from "aos"
 import "aos/dist/aos.css"
-import "./home.scss"
+import "./home.css"
 import video from "../../assets/motor-boat-23011.mp4"
 
 const Home = () => {

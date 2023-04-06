@@ -6,7 +6,7 @@ import { FaTripadvisor } from "react-icons/fa"
 import { FiChevronRight } from "react-icons/fi"
 
 import video from "../../assets/ocean-59476.mp4"
-import "./footer.scss"
+import "./footer.css"
 
 const Footer = () => {
   return (
